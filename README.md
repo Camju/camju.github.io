@@ -1,10 +1,6 @@
 <html>
 <head>
-    <!-- Redirects immediately -->
-    <meta http-equiv="refresh" content="0; url=https://www.youtube.com/watch?v=xvFZjo5PgG0" />
-    
-</head>
 <body>
-    <p>If you are not redirected, <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">click here</a>.</p>
+    <iframe width="110" height="200" src="https://www.myinstants.com/instant/dog-clicker-7758/embed/" frameborder="0" scrolling="no"></iframe>
 </body>
 </html>
